@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "EPS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Type": "Footprint", "Block": 49.0, "Buld_No": "49A", "Bldg_Name": "Emergency Power Supply Building", "Footprint": 570.76, "Land_ATL": 570.76, "Height": 4.2, "Floors": 1, "DP_BUA": 550.44, "DP_Constr": 1256.29, "Parking_Bl": 11, "OC_BUA": 550.44, "Status": "Operational" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 72.691147575983038, 23.168002984618077, 0.0 ], [ 72.690758877381668, 23.167971985472075, 0.0 ], [ 72.690744685834062, 23.16812937458883, 0.0 ], [ 72.691132409776799, 23.168160295404167, 0.0 ], [ 72.691147575983038, 23.168002984618077, 0.0 ] ] ] ] } }
+]
+}
