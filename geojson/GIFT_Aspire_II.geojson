@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "GIFT_Aspire_II",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Type": "Footprint", "Block": 12.0, "Buld_No": "12B", "Bldg_Name": "GIFT Aspire Two", "Footprint": 3190.5, "Land_ATL": 3190.5, "Height": 4.95, "Floors": 1, "DP_BUA": 2961.27, "DP_Constr": 3190.5, "Parking_Bl": 213, "OC_BUA": 2961.27, "Status": "Operational" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 262215.834600001573563, 2563403.433100001886487, 0.0 ], [ 262217.07799999974668, 2563410.829299999400973, 0.0 ], [ 262221.056800000369549, 2563434.49720000103116, 0.0 ], [ 262234.370000001043081, 2563432.259099999442697, 0.0 ], [ 262226.16370000038296, 2563383.4441, 0.0 ], [ 262212.850500001572073, 2563385.682199999690056, 0.0 ], [ 262215.834600001573563, 2563403.433100001886487, 0.0 ] ] ] ] } }
-]
-}
