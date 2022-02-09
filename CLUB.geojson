@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "CLUB",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "Type": "Footprint", "Block": 38.0, "Buld_No": "38A", "Bldg_Name": "GIFT International Center Club", "Footprint": 4780.0, "Land_ATL": 9636.0, "Height": 40.0, "Floors": 8, "DP_BUA": 19390.0, "DP_Constr": 39687.41, "Parking_Bl": 470, "OC_BUA": 15186.7, "Status": "Operational" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 72.690607258623146, 23.160424608411038, 0.0 ], [ 72.689093767009126, 23.160358696709366, 0.0 ], [ 72.689079618557983, 23.160636419937966, 0.0 ], [ 72.690593113248852, 23.160702332927158, 0.0 ], [ 72.690607258623146, 23.160424608411038, 0.0 ] ] ] ] } }
-]
-}
