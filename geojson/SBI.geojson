@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SBI",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Type": "Footprint", "Block": 53.0, "Buld_No": "53A", "Bldg_Name": "SBI Commercial Building", "Footprint": 1579.15, "Land_ATL": 3148.42, "Height": 81.48, "Floors": 14, "DP_BUA": 17853.29, "DP_Constr": 29089.91, "Parking_Bl": 233, "OC_BUA": 17853.29, "Status": "Under Construction" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 72.684620412638253, 23.163580779257202, 0.0 ], [ 72.68463065234981, 23.163619374340016, 0.0 ], [ 72.684371169079952, 23.163678213437077, 0.0 ], [ 72.684432790195586, 23.163910544146606, 0.0 ], [ 72.684954302113169, 23.163792288877243, 0.0 ], [ 72.684882440218885, 23.163521362821971, 0.0 ], [ 72.684655353139163, 23.163572856294525, 0.0 ], [ 72.684620412638253, 23.163580779257202, 0.0 ] ] ] ] } }
+]
+}
