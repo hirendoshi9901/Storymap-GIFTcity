@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "PRESTIGE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Type": "Footprint", "Block": 53.0, "Buld_No": "53C", "Bldg_Name": "Prestige", "Footprint": 1538.0, "Land_ATL": 3185.0, "Height": 90.0, "Floors": 21, "DP_BUA": 29202.51, "DP_Constr": 39643.56, "Parking_Bl": 177, "OC_BUA": 0.0, "Status": "Operational" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 72.685198779043944, 23.165057346800815, 0.0 ], [ 72.685095409455201, 23.164667635228056, 0.0 ], [ 72.684664925446327, 23.164765254967723, 0.0 ], [ 72.684817263569215, 23.165016337628703, 0.0 ], [ 72.684946116257052, 23.164987157566287, 0.0 ], [ 72.684967544222758, 23.165068599457438, 0.0 ], [ 72.685198779043944, 23.165057346800815, 0.0 ] ] ] ] } }
+]
+}
