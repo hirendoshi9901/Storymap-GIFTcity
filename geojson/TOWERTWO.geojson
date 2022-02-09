@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "TOWERTWO",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Type": "Footprint", "Block": 56.0, "Buld_No": "56B", "Bldg_Name": "GIFT TWO", "Footprint": 2339.0, "Land_ATL": 4800.0, "Height": 121.45, "Floors": 29, "DP_BUA": 55317.0, "DP_Constr": 66026.57, "Parking_Bl": 82, "OC_BUA": 55316.58, "Status": "Operational" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 72.681218109858918, 23.164872364437898, 0.0 ], [ 72.681073006056621, 23.164325228764987, 0.0 ], [ 72.680689519287867, 23.164412175945667, 0.0 ], [ 72.68083462155694, 23.164959311848317, 0.0 ], [ 72.681218109858918, 23.164872364437898, 0.0 ] ] ] ] } }
+]
+}
